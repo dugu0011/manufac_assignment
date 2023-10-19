@@ -15,9 +15,13 @@ To go with the latest version please copy and past in your terminal the followin
 git clone https://github.com/dugu0011/manufac_assignment.git
 ```
 
+Change the directory
+```bash
+go to ----->>>>   cd wine-data-visualization directory
+```
+
 Run the development server:
-change directory
-cd wine-data-visualization 
+
 
 ```bash
 yarn install
